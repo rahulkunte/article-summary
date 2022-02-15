@@ -1,16 +1,14 @@
 # article-summary
 
 
-The internet is now a part of everyone's life and entertainment in a short amount of time is increasingly becoming popular.
-With TikTok, Instagram reels and Cameo, the shift to consumption of "rapid fire" content is apparent. 
-News has also always been made to first capture attention and then indulge the reader. This is done either with catchy titles/headlines or an interesting one-liner.
+The internet is an integral part of everyone's life. 
+Short-format entertainment is increasingly becoming popular.
+With TikTok, Instagram reels and Cameo, the shift to consumption of such "rapid fire" content is apparent. 
 
-It is clear that we like to spend less time on each task and do as many tasks as possible.
-Hence, summarizing lengthy articles seems like a good fit. 
+News articles have been using this phenomenon to capture a readers attention.
+This is done either with catchy titles/headlines or an interesting one-liner.
 
-This project intends to search and summarize articles from google.
 
-For now, this code will be summarizing news articles about COVID-19. 
-
+This project aims at summarizing news articles. 
 
 
